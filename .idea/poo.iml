@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/estruturasDeDados/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exercicios/Evento" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exercicios/Musica" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/estruturasDeDados/BeeCrown" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercicios/Map" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
